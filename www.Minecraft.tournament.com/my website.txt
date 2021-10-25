@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>Minecraft tournament</title>
+   </head>
+   <body>
+   This is my very first website and I'm <b>extremely excited!!!!!!</b>
+   </body>
+</html>
+<body>
+   <h1>Minecraft tournament</h1>
+   <h2>Minecraft tournament</h2>
+   <h3>plz wait</h3>
+   <h4>plz wait</h4>
+   <h5>plz wait</h5>
+   <h6>plz wait</h6>
+</body>
+<p>
+   this is a Minecraft tournament the tournament well host by Md Rehan
+   This is for cracked only minecraft this minecraft buts their is sports
+   this is also able for pocket
+    
+     </p>
+     
+    <p>
+    
+      ip: IP: Minecraft_tournament.aternos.me<b>
+     Port: 53288<b>
+ 
+    <a href="https://Minecraft.tournament.com/" target="_blank">Sed in lacus a augue rutrum</a>
+
+    <img src="<img src="https://via.placeholder.com/600x300.jpg">">
+
+
+   <p>
+   
+     the server pic like this 
+
+     <img src="https://cdn.discordapp.com/attachments/901769620778795058/902051622102908928/c813bff3d01eec38f13938941da0ac9f.png/600x400">
